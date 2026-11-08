@@ -13,9 +13,9 @@ I sell enterprise technology into the GCC's regulated industries: government, ba
 | Repo | What it tests | Headline finding |
 |---|---|---|
 | [gcc-motor-claims-voice-agent-eval](https://github.com/mustafaalim/gcc-motor-claims-voice-agent-eval) | Motor claims first-notice voice agent for a UAE insurer, same prompt on four LLMs | No model broke a prohibition in English. In Arabic and Hindi, one answered in English and the platform default wrote its reasoning into the reply. |
-| [gcc-health-screening-voice-guide](https://github.com/mustafaalim/gcc-health-screening-voice-guide) | Seven-language voice guide for UAE hospital health screening, on ElevenLabs Agents | The only safety failure appeared in Filipino, on a rule the agent obeyed in English. English-only acceptance testing would have passed it. |
-| [gcc-voice-agent-eval](https://github.com/mustafaalim/gcc-voice-agent-eval) | Bilingual campus kiosk with consent-based memory, on ElevenLabs Agents | Consent and deletion held; personalisation fired in 2 of 3 runs. It failed safe, but hadn't yet earned the memory feature. |
+| [gcc-health-screening-voice-guide](https://github.com/mustafaalim/gcc-health-screening-voice-guide) | Seven-language voice guide for UAE hospital health screening, on ElevenLabs Agents | In round one, the only safety failure appeared in Filipino, on a rule the agent obeyed in English. A retest showed fasting advice still has to come from the hospital system. |
+| [gcc-voice-agent-eval](https://github.com/mustafaalim/gcc-voice-agent-eval) | Bilingual campus kiosk with consent-based memory, on ElevenLabs Agents | Consent and deletion held in text tests; personalisation was unreliable. A retest found it announcing a student's consent choice on a public screen. |
 
 ## What I look for
 
-In every one of these, the voice and model quality were never the hard part. What decides a deployment in a regulated institution is whether consent, deletion, language, safety and escalation are designed into the system rather than asked for in a prompt.
+In every one of these, voice quality was never the hard part. What decides a deployment in a regulated institution is whether consent, deletion, language, safety and escalation are designed into the system rather than asked for in a prompt.
