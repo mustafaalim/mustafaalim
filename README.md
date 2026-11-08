@@ -12,7 +12,7 @@ I sell enterprise technology into the GCC's regulated industries: government, ba
 
 | Repo | What it tests | Headline finding |
 |---|---|---|
-| [gcc-motor-claims-voice-agent-eval](https://github.com/mustafaalim/gcc-motor-claims-voice-agent-eval) | Motor claims first-notice voice agent for a UAE insurer, same prompt on four LLMs | Every model held the compliance rules in English. In Arabic and Hindi, one answered in English and the platform default spoke its reasoning aloud. |
+| [gcc-motor-claims-voice-agent-eval](https://github.com/mustafaalim/gcc-motor-claims-voice-agent-eval) | Motor claims first-notice voice agent for a UAE insurer, same prompt on four LLMs | Every model held the compliance rules in English. In Arabic and Hindi, one answered in English and the platform default wrote its reasoning into the reply. |
 | [gcc-health-screening-voice-guide](https://github.com/mustafaalim/gcc-health-screening-voice-guide) | Seven-language voice guide for UAE hospital health screening, on ElevenLabs Agents | The only safety failure appeared in Filipino, on a rule the agent obeyed in English. English-only acceptance testing would have passed it. |
 | [gcc-voice-agent-eval](https://github.com/mustafaalim/gcc-voice-agent-eval) | Bilingual campus kiosk with consent-based memory, on ElevenLabs Agents | Consent and deletion held; personalisation fired in 2 of 3 runs. It failed safe, but hadn't yet earned the memory feature. |
 
