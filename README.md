@@ -5,7 +5,7 @@ I sell enterprise technology into the GCC's regulated industries: government, ba
 - **Gartner, 14 years.** Grew the GCC portfolio from $1.8M to $7M ARR with 95%+ retention, led 9 AEs while closing personally, six-time Winner's Circle.
 - **Built Saudi Arabia from zero (2016 to 2017).** 236% of quota, #2 globally, selling into government, financial regulators and sovereign investment institutions.
 - **Across sectors.** Banks and insurers across the Gulf, 45+ ministries, 17 universities, plus construction and manufacturing accounts.
-- **Before Gartner.** IBM enterprise infrastructure and software, including university data-centre and HPC deals.
+- **Before Gartner.** Five years in enterprise infrastructure sales: opened Huawei's UAE energy vertical (data centre and HPC), sold IBM's portfolio at Midis Group, and Dell at Emirates Computers.
 - **Now.** Founder of Threshold, an AI governance practice in Dubai (DIFC).
 
 ## Evaluations
