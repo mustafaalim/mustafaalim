@@ -2,7 +2,7 @@
 
 I sell enterprise technology into the GCC's regulated industries: government, banking and financial services, insurance, healthcare and education. Before I put an AI product in front of a buyer who answers to a regulator, I test it the way their evaluation committee will.
 
-- **Gartner, 14 years.** Grew the GCC portfolio from $1.8M to $7M ARR with 95%+ retention, led 9 AEs while closing personally, six-time Winner's Circle.
+- **Gartner, 14 years.** Grew the GCC portfolio from $1.8M to $7M ARR with 95%+ retention, led 9 AEs while closing personally, nine-time Winner's Circle.
 - **Built Saudi Arabia from zero (2016 to 2017).** 236% of quota, #2 globally, selling into government, financial regulators and sovereign investment institutions.
 - **Across sectors.** Banks and insurers across the Gulf, 45+ ministries, 17 universities, plus construction and manufacturing accounts.
 - **Before Gartner.** Five years in enterprise infrastructure sales: opened Huawei's UAE energy vertical (data centre and HPC), sold IBM's portfolio at Midis Group, and Dell at Emirates Computers.
